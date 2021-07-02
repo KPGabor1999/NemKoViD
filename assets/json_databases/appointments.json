@@ -1,0 +1,38 @@
+{
+    "5fe9fba5a5ab3": {
+        "date": "2021.01.22.",
+        "month": 1,
+        "time": "15:00",
+        "applicants_count": 0,
+        "applicants": [],
+        "applicants_limit": 2,
+        "id": "5fe9fba5a5ab3"
+    },
+    "5fe9fbe180180": {
+        "date": "2021.01.22.",
+        "month": 1,
+        "time": "16:00",
+        "applicants_count": 0,
+        "applicants": [],
+        "applicants_limit": 2,
+        "id": "5fe9fbe180180"
+    },
+    "5feb0b40aae0a": {
+        "date": "2021.02.22.",
+        "month": 2,
+        "time": "15:00",
+        "applicants_count": 0,
+        "applicants": [],
+        "applicants_limit": 2,
+        "id": "5feb0b40aae0a"
+    },
+    "5feb12370ac59": {
+        "date": "2021.02.22.",
+        "month": 2,
+        "time": "16:00",
+        "applicants_count": 0,
+        "applicants": [],
+        "applicants_limit": 2,
+        "id": "5feb12370ac59"
+    }
+}

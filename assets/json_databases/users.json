@@ -1,0 +1,27 @@
+{
+    "5fea05e16569a": {
+        "fullname": "Korom P\u00e1l G\u00e1bor",
+        "TAJ_number": "123456789",
+        "home_address": "6000 Kecskem\u00e9t, Minta utca 82., 3. emelet 14-es ajt\u00f3",
+        "email_address": "korom.p.gabor@gmail.com",
+        "password": "$2y$10$iKDRvGskTHQc6rObuOn\/SetVIcrG1lzuRkuBNhuLwwV1GLtqrpPDO",
+        "appointment": "none",
+        "roles": [
+            "user"
+        ],
+        "id": "5fea05e16569a"
+    },
+    "5fea0784be703": {
+        "fullname": "ADMIN",
+        "TAJ_number": "987654321",
+        "home_address": "6723 Szeged, Minta utca 4., 4. emelet 15-es ajt\u00f3",
+        "email_address": "admin@nemkovid.hu",
+        "password": "$2y$10$jHDa.PzXsIL9tKtiuoyqo.0d9mTDGiURB5ZfqNikuGWsIsYJedxs.",
+        "appointment": "none",
+        "roles": [
+            "user",
+            "admin"
+        ],
+        "id": "5fea0784be703"
+    }
+}
