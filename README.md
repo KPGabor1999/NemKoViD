@@ -2,8 +2,8 @@
 
 Egy fiktív PHP oldal, amin jelentkezni lehet COVID védőoltásra vagy adminként új időpontokat meghirdetni.
 
-Az admin bejelentkezési adatai:
-E-mail: admin@nemkovid.hu
-Jelszó: admin
+Az admin bejelentkezési adatai:<br>
+E-mail: admin@nemkovid.hu<br>
+Jelszó: admin<br>
 
 Használati utasítás: Az index.php oldalt kell futtatni XAMPP-on keresztül.
