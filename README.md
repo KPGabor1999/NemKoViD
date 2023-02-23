@@ -7,3 +7,5 @@ E-mail: admin@nemkovid.hu<br>
 Jelszó: admin<br>
 
 Használati utasítás: Az index.php oldalt kell futtatni XAMPP-on keresztül.
+
+Bemutató videó itt: https://youtu.be/T29CeyUPvgk
